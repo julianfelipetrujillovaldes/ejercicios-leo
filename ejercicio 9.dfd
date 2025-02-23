@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+57
+"ingrese dos numeros para hallar el maximo comun divisor"
+5
+1
+1
+a
+5
+1
+1
+b
+6
+1
+7
+residuo
+7
+a mod b
+9
+1
+12
+residuo != 0
+6
+3
+1
+a
+1
+b
+1
+b
+7
+residuo
+7
+residuo
+7
+a mod b
+11
+4
+1
+16
+"el mcd es: ", b
+1

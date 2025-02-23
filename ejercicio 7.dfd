@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+80
+"señor usuario digite la temperatura en celsios para transformarla en farengeit"
+5
+1
+7
+celsios
+6
+1
+9
+faringeit
+16
+celsios*(9/5)+32
+4
+1
+21
+"faringeit",faringeit
+1

@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+"ingrese su numero de tarjeta y la contraseña"
+5
+1
+7
+tarjeta
+5
+1
+11
+ccontraseña
+7
+0
+1
+38
+tarjeta = 123 and ccontraseña =  12345
+4
+1
+26
+"Credenciales incorrectas"
+13
+4
+1
+27
+"ingese el saldo a retirar"
+5
+1
+5
+saldo
+6
+1
+12
+saldo_cuenta
+5
+50000
+7
+0
+1
+19
+saldo >saldo_cuenta
+6
+1
+18
+nuevo_saldo_cuenta
+18
+saldo_cuenta-saldo
+4
+1
+57
+"ha retirado ", saldo , " le quedan ", nuevo_saldo_cuenta
+13
+4
+1
+21
+"saldo insuficiente" 
+13
+13
+1

@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+146
+"Al ingrresar el salario de un empleado este programa calcula el aumento de ese salario en un 12 % descuento del seguro en 8 % y el bono del 6 % "
+5
+1
+7
+salario
+6
+3
+7
+aumento
+17
+(salario/100) *12
+13
+salario_total
+17
+aumento + salario
+16
+descuento_seguro
+21
+(salario_total/100)*8
+6
+3
+17
+salario_descuento
+30
+salario_total-descuento_seguro
+4
+bono
+25
+(salario_descuento/100)*6
+12
+salario_bono
+22
+salario_descuento+bono
+4
+1
+270
+"el salario con aumento del 12% es: " , salario_total,  "el descuento del seguro sobre el salario con el aumento es: ", salario_descuento, "el bono se aplica sobre el salario despues del descuento del seguro quedando el salario que recibe el empleado en: ", salario_bono
+1

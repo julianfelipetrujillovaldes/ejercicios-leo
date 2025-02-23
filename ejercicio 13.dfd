@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+"Este sistema halla los multiplos de 3. ingrese un numero como limite para hallar los numeros"
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+6
+1
+8
+multiplo
+4
+i *3
+7
+0
+1
+10
+multiplo>n
+4
+1
+32
+"los multiplos son: " , multiplo
+13
+13
+10
+1
