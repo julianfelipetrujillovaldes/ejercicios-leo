@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'señor usuario por favor digjite su nombre, el valor del producto y el descuento del producto'
+5
+1
+16
+por,valor,nombre
+6
+2
+1
+p
+9
+valor*por
+1
+t
+7
+valor-p
+4
+1
+63
+' hola señor@ ', nombre, ' usted debe pagar: ' , t ,  ' pesos '
+1
