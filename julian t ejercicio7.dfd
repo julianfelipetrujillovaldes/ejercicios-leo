@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+"ingrese la cantidad de camisas compradas"
+5
+1
+8
+cantidad
+4
+1
+43
+"ingrese el precio unitario de las camisas"
+5
+1
+6
+precio
+7
+0
+1
+11
+cantidad>=3
+6
+3
+12
+precio_total
+15
+cantidad*precio
+9
+descuento
+21
+(precio_total/100)*10
+16
+precio_descuento
+22
+precio_total-descuento
+4
+1
+70
+"el precio a pagar por las ",cantidad, " camisas es ",precio_descuento
+13
+6
+3
+12
+precio_total
+15
+cantidad*precio
+9
+descuento
+21
+(precio_total/100)*20
+16
+precio_descuento
+22
+precio_total-descuento
+4
+1
+70
+"el precio a pagar por las ",cantidad, " camisas es ",precio_descuento
+13
+1

@@ -1,0 +1,142 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+"ingrese la hora actual"
+5
+1
+4
+hora
+4
+1
+21
+"ingrese los minutos"
+5
+1
+7
+minutos
+4
+1
+22
+"ingrese los segundos"
+5
+1
+8
+segundos
+4
+1
+9
+"am o pm"
+5
+1
+9
+medidiano
+7
+0
+1
+15
+segundos+10>=60
+6
+1
+8
+segundos
+11
+segundos+10
+4
+1
+48
+hora," : ", minutos, " : ", segundos , medidiano
+13
+6
+2
+7
+minutos
+9
+minutos+1
+8
+segundos
+16
+(segundos+10)-60
+7
+0
+1
+11
+minutos>=60
+4
+1
+48
+hora," : ", minutos, " : ", segundos , medidiano
+13
+6
+2
+4
+hora
+6
+hora+1
+7
+minutos
+1
+0
+7
+0
+1
+26
+hora=12 and medidiano="pm"
+7
+0
+1
+28
+hora=12 and medidiano = "am"
+7
+0
+1
+7
+hora>12
+4
+1
+48
+hora," : ", minutos, " : ", segundos , medidiano
+13
+6
+1
+4
+hora
+1
+1
+4
+1
+48
+hora," : ", minutos, " : ", segundos , medidiano
+13
+13
+6
+1
+9
+medidiano
+4
+"pm"
+4
+1
+48
+hora," : ", minutos, " : ", segundos , medidiano
+13
+13
+6
+1
+9
+medidiano
+4
+"am"
+4
+1
+48
+hora," : ", minutos, " : ", segundos , medidiano
+13
+13
+13
+1

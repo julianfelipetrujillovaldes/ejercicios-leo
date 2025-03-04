@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+83
+"el programa le dice si debe tributar al proporcionar su edad e ingresos mensuales"
+4
+1
+17
+"ingrese su edad"
+5
+1
+4
+edad
+4
+1
+31
+"digite sus ingresos mensuales"
+5
+1
+8
+ingresos
+7
+0
+1
+26
+edad>16 and ingresos>=1000
+4
+1
+18
+"no debe tributar"
+13
+4
+1
+15
+"debe tributar"
+13
+1

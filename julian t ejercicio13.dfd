@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+"ingrese un numero de 3 cifras"
+5
+1
+6
+numero
+6
+3
+2
+c3
+13
+numero mod 10
+2
+c1
+14
+numero mod 100
+2
+c2
+7
+c1 /100
+6
+2
+2
+c4
+10
+numero/100
+2
+c5
+5
+c4-c2
+7
+0
+1
+5
+c3=c5
+4
+1
+25
+"el numero no es capicua"
+13
+4
+1
+22
+"el numero es capicua"
+13
+1

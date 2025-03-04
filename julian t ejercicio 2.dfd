@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+66
+"ingresar 2 numeros para conocer si su suma es mayor o menor a100"
+5
+1
+7
+ valor1
+5
+1
+6
+valor2
+6
+1
+4
+suma
+13
+valor1+valor2
+7
+0
+1
+8
+suma>100
+7
+0
+1
+8
+suma=100
+4
+1
+15
+"suma es< a100"
+13
+4
+1
+14
+"suma es =100"
+13
+13
+4
+1
+11
+"suma>a100"
+13
+1

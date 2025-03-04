@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+"ingrese su año de nacimiento"
+5
+1
+4
+anio
+6
+1
+4
+edad
+9
+2025-anio
+7
+0
+1
+8
+edad>=18
+4
+1
+46
+"Usted es menor de edad tiene ", edad ," años"
+13
+4
+1
+46
+"Usted es mayor de edad  tiene ", edad," años"
+13
+1

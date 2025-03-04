@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+78
+"ingrese la cantidad de horas trabajadas esta semana para calcular su salario"
+5
+1
+5
+horas
+7
+0
+1
+9
+horas<=40
+6
+3
+14
+salario_basico
+7
+40*5175
+12
+horas_extras
+8
+horas-40
+13
+salario_extra
+17
+horas_extras*7500
+6
+1
+13
+total_salario
+28
+salario_extra+salario_basico
+4
+1
+46
+"su salario de esta semana es ", total_salario
+13
+6
+1
+7
+salario
+10
+horas*5175
+4
+1
+40
+"su salario de esta semana es ", salario
+13
+1

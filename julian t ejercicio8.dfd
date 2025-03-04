@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+"bienvenido el programa le dice si ya puede jubilarse o no"
+4
+1
+17
+"ingrese su edad"
+5
+1
+4
+edad
+4
+1
+60
+"ingrese su sexo. digite m para masculino y f para femenino"
+5
+1
+4
+sexo
+7
+0
+1
+10
+sexo = "f"
+7
+0
+1
+8
+sexo="m"
+4
+1
+11
+"no valido"
+13
+7
+0
+1
+8
+edad>=60
+4
+1
+46
+"no tiene la edad suficiente para pensionarse"
+13
+4
+1
+29
+"felicidades esta pensionado"
+13
+13
+13
+7
+0
+1
+7
+edad>54
+4
+1
+46
+"no tiene la edad suficiente para pensionarse"
+13
+4
+1
+29
+"felicidades esta pensionada"
+13
+13
+1
