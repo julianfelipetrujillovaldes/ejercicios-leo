@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+81
+'el usuario debe ser mayor de edad y tener ingresos mayores a un millon de pesos'
+4
+1
+14
+'ingrese edad'
+5
+1
+6
+valor1
+4
+1
+28
+'ingrese su salario mensual'
+5
+1
+6
+valor2
+7
+0
+1
+29
+valor1>=18 and valor2>1000000
+4
+1
+22
+'prestamo no aprovado'
+13
+4
+1
+19
+'prestamo aprovado'
+13
+1

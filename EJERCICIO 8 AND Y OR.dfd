@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+145
+'Para poderse graduar como tecnico en el ITFIP necesita haber aprobado todos las asignaturas y ademas haber hecho proyecto, diplomado o pasantia'
+4
+1
+58
+'¿Tiene todas las asignaturas aprobadas? responda si o no'
+5
+1
+9
+respuesta
+4
+1
+62
+'ingrese la modalidad de grado: proyecto pasantia o diplomado'
+5
+1
+10
+respuesta2
+7
+0
+1
+98
+respuesta= 'si' and (respuesta2= 'proyecto ' or respuesta2 = 'pasantia' or respuesta2='diplomado')
+4
+1
+36
+'pailas muchacho, pague continuidad'
+13
+4
+1
+38
+'felicidades muchacho puede graduarse'
+13
+1

@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+91
+'ingrese tres numeros que no sean iguales para determinar cual es el mayor y cual el menor'
+5
+1
+8
+n1,n2,n3
+7
+0
+1
+26
+n1>n2 and n1>n3 and n2 >n3
+7
+0
+1
+26
+n1>n2 and n1>n3 and n2 <n3
+7
+0
+1
+26
+n2>n1 and n2>n3 and n1 >n3
+7
+0
+1
+26
+n2>n1 and n2>n3 and n1 <n3
+7
+0
+1
+26
+n3>n1 and n3>n2 and n1 >n2
+7
+0
+1
+26
+n3>n1 and n3>n2 and n1 <n2
+4
+1
+37
+'ingrese numeros que no sean iguales'
+13
+4
+1
+52
+'el numero mayor es' , n3, ' el numero menor es ',n1
+13
+13
+4
+1
+52
+'el numero mayor es' , n3, ' el numero menor es ',n2
+13
+13
+4
+1
+53
+'el numero mayor es' , n2 , ' el numero menor es ',n1
+13
+13
+4
+1
+53
+'el numero mayor es' , n2 , ' el numero menor es ',n3
+13
+13
+4
+1
+53
+'el numero mayor es' , n1 , ' el numero menor es ',n2
+13
+13
+4
+1
+53
+'el numero mayor es' , n1 , ' el numero menor es ',n3
+13
+1

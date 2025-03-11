@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+97
+'si es estudiante universitario o trabaja tiene el descuento del veinte en el trasnporte publico'
+4
+1
+15
+'es estudiante'
+5
+1
+2
+r1
+4
+1
+15
+'usted trabaja'
+5
+1
+2
+r2
+7
+0
+1
+18
+r1='si' or r2='si'
+4
+1
+29
+'no puede tener el descuento'
+13
+4
+1
+26
+'puede tener el descuento'
+13
+1

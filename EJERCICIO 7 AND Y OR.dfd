@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+94
+'se ingresa el nombre, edad y sexo de un aspirante para determinar en que categoria participa'
+4
+1
+8
+'nombre'
+5
+1
+6
+nombre
+4
+1
+6
+'edad'
+5
+1
+4
+edad
+4
+1
+6
+'sexo'
+5
+1
+4
+sexo
+7
+0
+1
+36
+edad>=18 and edad<=21 and sexo = 'm'
+7
+0
+1
+36
+edad>=18 and edad<=21 and sexo = 'f'
+7
+0
+1
+36
+edad>=22 and edad<=25 and sexo = 'm'
+7
+0
+1
+36
+edad>=22 and edad<=25 and sexo = 'f'
+4
+1
+33
+'no hay categorias para esa edad'
+13
+4
+1
+65
+'señorita ', nombre, ' participa en la categoria master femenina'
+13
+13
+4
+1
+63
+'señor ', nombre, ' participa en la categoria master masculina'
+13
+13
+4
+1
+65
+'señorita ', nombre, ' participa en la categoria senior femenina'
+13
+13
+4
+1
+63
+'señor ', nombre, ' participa en la categoria senior masculina'
+13
+1

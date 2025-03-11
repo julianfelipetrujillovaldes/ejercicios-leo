@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+126
+'Si su estrato socieconomico es 1 2 o 3 y ademas se encuentra en 1 2 3 o 4 semestre puede reclamar el subsidio de renta joven'
+4
+1
+17
+'Ingrese Estrato'
+5
+1
+7
+estrato
+4
+1
+52
+'ingrese el semestrre que esta cursando actualmente'
+5
+1
+8
+semestre
+7
+0
+1
+58
+estrato >0 and estrato < 4 and semestre >0 and semestre <5
+4
+1
+31
+'no puede reclamar el subsidio'
+13
+4
+1
+28
+'puede reclamar el subsidio'
+13
+1

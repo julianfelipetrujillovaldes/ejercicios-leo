@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+135
+'para ser presidente de colombia se requiere ser colombiano de nacimiento aver cumplido 40 añor y aver residido 6 años en la republica'
+4
+1
+45
+'es colombiano de nacimiento digite si o no '
+5
+1
+2
+r1
+4
+1
+15
+' ingrese edad'
+5
+1
+2
+r2
+4
+1
+38
+'cuantos años  a recibido en colombia'
+5
+1
+2
+r3
+7
+0
+1
+28
+r1='si' and r2>=40 and r3>=6
+4
+1
+45
+'no pude llegar hacer presidente de colombia'
+13
+4
+1
+43
+'puede llegar hacer presidente de colombia'
+13
+1
